@@ -1,0 +1,9 @@
+*
+!/**/
+!/**/CMakeLists.txt
+!/**/*.h.in
+!/**/*.cxx
+
+
+/build/
+/.ccls-cache/
